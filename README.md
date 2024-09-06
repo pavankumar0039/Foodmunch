@@ -3,12 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+ First step after downloading the zip file of project extract the zip file in to your files
 
-In the project directory, you can run:
+ *Second step:navigate to the project folder food web open it in code editor (vscode)
+ *Third step:split the terminal one for frontend and backend
+ *Fourth step: In one terminal navigate to bacend by using command cd ./backend
+ *fifth step:then run the 
+ ## npm start in another terminal
+ *then u are server run in http://localhost:XXXX
+ * copy that and paste in brower u can see website
 
-### `npm start`
-
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
